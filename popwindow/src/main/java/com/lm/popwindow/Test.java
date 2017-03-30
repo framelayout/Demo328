@@ -5,4 +5,5 @@ package com.lm.popwindow;
  */
 
 public class Test {
+    private int a=3;
 }
